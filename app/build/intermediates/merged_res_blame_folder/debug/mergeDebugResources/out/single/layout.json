@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.alert.app-mergeDebugResources-31:/layout/custom_layout.xml",
+        "source": "com.example.alert.app-main-34:/layout/custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-31:\\layout\\custom_layout.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\custom_layout.xml"
+    }
+]
