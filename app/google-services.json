@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929342654618",
+    "project_id": "roomcrud",
+    "storage_bucket": "roomcrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929342654618:android:107e813b71d49524d73723",
+        "android_client_info": {
+          "package_name": "com.example.alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24Br_xRLjdWV5Imv1XkL9w0_tOdAun_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

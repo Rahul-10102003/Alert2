@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Alert</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="gcm_defaultSenderId" translatable="false">929342654618</string>
+    <string name="google_api_key" translatable="false">AIzaSyC24Br_xRLjdWV5Imv1XkL9w0_tOdAun_U</string>
+    <string name="google_app_id" translatable="false">1:929342654618:android:107e813b71d49524d73723</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC24Br_xRLjdWV5Imv1XkL9w0_tOdAun_U</string>
+    <string name="google_storage_bucket" translatable="false">roomcrud.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">roomcrud</string>
     <style name="Base.Theme.Alert" parent="Theme.Material3.DayNight.NoActionBar">
         
+        <item name="android:windowTranslucentStatus">true</item>
         
     </style>
     <style name="Theme.Alert" parent="Base.Theme.Alert"/>

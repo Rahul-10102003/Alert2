@@ -1,78 +1,134 @@
 [
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_itemnew.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\itemnew.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_shared_preferences.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_shared_preferences.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_third.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\activity_main.xml"
+        "merged": "com.example.alert.app-debug-51:/layout_activity_shared_preferences.xml.flat",
+        "source": "com.example.alert.app-main-53:/layout/activity_shared_preferences.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\layout_custom_layout.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\custom_layout.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_second.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_view_pager.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_view_pager.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_real_time.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_real_time.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_custom_layout.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\custom_layout.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_fire_store.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_fire_store.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.alert.app-debug-32:/layout_custom_layout.xml.flat",
-        "source": "com.example.alert.app-main-34:/layout/custom_layout.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_recycleritem.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\recycleritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-debug-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\xml\\data_extraction_rules.xml"
     }
 ]

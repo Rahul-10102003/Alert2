@@ -1,14 +1,62 @@
 [
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-31:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_view_pager.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_view_pager.xml"
     },
     {
-        "merged": "com.example.alert.app-mergeDebugResources-31:/layout/custom_layout.xml",
-        "source": "com.example.alert.app-main-34:/layout/custom_layout.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_web_view.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-31:\\layout\\custom_layout.xml",
-        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-34:\\layout\\custom_layout.xml"
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\itemnew.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\itemnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_shared_preferences.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_shared_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_real_time.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_real_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\custom_layout.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_fire_store.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_fire_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\recycleritem.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\recycleritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.alert.app-mergeDebugResources-50:/layout/activity_shared_preferences.xml",
+        "source": "com.example.alert.app-main-53:/layout/activity_shared_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-mergeDebugResources-50:\\layout\\fragment_third.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.9\\com.example.alert.app-main-53:\\layout\\fragment_third.xml"
     }
 ]
